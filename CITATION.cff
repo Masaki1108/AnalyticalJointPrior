@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Iwaya"
+  given-names: "Masaki"
+title: "Analytical Joint Prior"
+version: 1.0.0
+url: "https://github.com/Masaki1108/AnalyticalJointPrior/"
